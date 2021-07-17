@@ -1,0 +1,5 @@
+n_s = input('Введите число n: ')
+n = int(n_s)
+nn = int(n_s * 2)
+nnn = int(n_s * 3)
+print(n + nn + nnn)
